@@ -22,11 +22,11 @@ Graduate-level coursework and deep learning research implementations for Advance
 
 ---
 
-## 📚 Course Overview
+## Course Overview
 
 This repository contains assignments, research experiments, and reproducible benchmarks developed for the **Advanced Data Mining** graduate curriculum. It covers statistical hypothesis testing, change-aware temporal models, anomaly detection, attention mechanisms, and vision transformers.
 
-### 👨‍🏫 Course Information
+### Course Information
 - **Course:** Advanced Data Mining
 - **University:** Shahid Beheshti University (SBU)
 - **Instructor:** Dr. Hadi Farahani
@@ -35,7 +35,7 @@ This repository contains assignments, research experiments, and reproducible ben
 
 ---
 
-## 🔬 Models, Experiments & Benchmarks
+## Models, Experiments & Benchmarks
 
 The capstone project investigates modern neural architectures across four distinct data modalities:
 
@@ -54,7 +54,7 @@ Each mini-project folder includes:
 
 ---
 
-## 📂 Repository & Syllabus Structure
+## Repository Structure
 
 ```text
 advanced-data-mining-coursework/
@@ -71,7 +71,7 @@ advanced-data-mining-coursework/
 
 ---
 
-## 🚀 Environment Setup & Notebooks
+## Environment Setup & Notebooks
 
 Each project provides its own isolated `requirements.txt`. To run any of the notebooks locally:
 
@@ -90,14 +90,14 @@ pip install -r final-project/mini-project-04-vit/requirements.txt
 
 ---
 
-## 👥 Contributors & Credits
+## Maintainer & Credits
 
-- **Author & Researcher:** [Alireza Jahanbakhsh](https://github.com/Alizjahan)
+- **Repository Maintainer:** [@Alizjahan](https://github.com/Alizjahan)
 - **Supervising Instructor:** Dr. Hadi Farahani
 - **Institution:** Shahid Beheshti University (SBU)
 
 ---
 
-## 📄 License & Academic Integrity
+## License & Academic Integrity
 
 This repository is shared for educational and research reference under the **MIT License**.
