@@ -57,7 +57,7 @@ Each mini-project folder includes:
 ## Repository Structure
 
 ```text
-advanced-data-mining-coursework/
+Advanced-Data-Mining-SBU-Course/
 ├── Header2.jpg
 ├── README.md
 ├── assignments/                             # Graduate-level coursework assignments
@@ -77,8 +77,8 @@ Each project provides its own isolated `requirements.txt`. To run any of the not
 
 ```bash
 # Clone repository
-git clone https://github.com/Alizjahan/advanced-data-mining-coursework.git
-cd advanced-data-mining-coursework
+git clone https://github.com/Alizjahan/Advanced-Data-Mining-SBU-Course.git
+cd Advanced-Data-Mining-SBU-Course
 
 # Create and activate virtual environment
 python -m venv .venv
