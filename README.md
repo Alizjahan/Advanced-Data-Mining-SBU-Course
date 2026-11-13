@@ -1,25 +1,32 @@
-# Advanced Data Mining Coursework
-
-![Advanced Data Mining](Header2.jpg)
+<p align="center">
+  <img src="Header2.jpg" alt="Advanced Data Mining Coursework Banner" width="100%">
+</p>
 
 <div align="center">
+
+# Advanced Data Mining Coursework
+### Graduate Coursework, Statistical Analysis & Deep Learning Research Modules
 
 [![University](https://img.shields.io/badge/University-SBU-0D9DF8?style=flat-square&logo=academia)](https://en.sbu.ac.ir/)
 [![Term](https://img.shields.io/badge/Term-Spring%202026-34C6BF?style=flat-square)]()
 [![Python](https://img.shields.io/badge/Python-%3E%3D3.10-89DB76?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Deep Learning](https://img.shields.io/badge/Stack-PyTorch%20%7C%20TensorFlow-FA9138?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Maintainer](https://img.shields.io/badge/Author-Alizjahan-0F6FFA?style=flat-square&logo=github)](https://github.com/Alizjahan)
 
 Graduate-level coursework and deep learning research implementations for Advanced Data Mining at Shahid Beheshti University.
 
-[Course Overview](#course-information) • [Final Project Modules](#final-project-deep-learning-modules) • [Repository Structure](#repository-structure) • [Setup](#environment-setup)
+[Course Overview](#-course-information) • [Final Project Modules](#-models-experiments--benchmarks) • [Repository Structure](#-repository--syllabus-structure) • [Environment Setup](#-environment-setup--notebooks)
 
 </div>
 
 ---
 
-## Course Information
+## 📚 Course Overview
 
+This repository contains assignments, research experiments, and reproducible benchmarks developed for the **Advanced Data Mining** graduate curriculum. It covers statistical hypothesis testing, change-aware temporal models, anomaly detection, attention mechanisms, and vision transformers.
+
+### 👨‍🏫 Course Information
 - **Course:** Advanced Data Mining
 - **University:** Shahid Beheshti University (SBU)
 - **Instructor:** Dr. Hadi Farahani
@@ -28,7 +35,7 @@ Graduate-level coursework and deep learning research implementations for Advance
 
 ---
 
-## Final Project: Deep Learning Modules
+## 🔬 Models, Experiments & Benchmarks
 
 The capstone project investigates modern neural architectures across four distinct data modalities:
 
@@ -47,7 +54,7 @@ Each mini-project folder includes:
 
 ---
 
-## Repository Structure
+## 📂 Repository & Syllabus Structure
 
 ```text
 advanced-data-mining-coursework/
@@ -56,17 +63,17 @@ advanced-data-mining-coursework/
 ├── assignments/                             # Graduate-level coursework assignments
 └── final-project/
     ├── Project-Handbook.pdf
-    ├── mini-project-01-rnn/                 # Multivariate Weather Forecasting
-    ├── mini-project-02-autoencoder/         # ECG Anomaly Detection
-    ├── mini-project-03-transformer/         # AG News Text Classification
+    ├── mini-project-01-rnn/                 # Multivariate Weather Forecasting (GRU & Attention)
+    ├── mini-project-02-autoencoder/         # ECG Anomaly Detection (Deep Autoencoders)
+    ├── mini-project-03-transformer/         # AG News Text Classification (Transformer vs CNN)
     └── mini-project-04-vit/                 # Plant Disease Classification (ViT vs ResNet)
 ```
 
 ---
 
-## Environment Setup
+## 🚀 Environment Setup & Notebooks
 
-Each project provides its own `requirements.txt`. To run any of the notebooks:
+Each project provides its own isolated `requirements.txt`. To run any of the notebooks locally:
 
 ```bash
 # Clone repository
@@ -83,12 +90,11 @@ pip install -r final-project/mini-project-04-vit/requirements.txt
 
 ---
 
-## 👨‍💻 Author & Maintainer
+## 👥 Contributors & Credits
 
-**Alireza Jahanbakhsh**  
-M.Sc. Data Science @ Shahid Beheshti University  
-- GitHub: [@Alizjahan](https://github.com/Alizjahan)  
-- Email: alizjahanbakhsh@gmail.com  
+- **Author & Researcher:** [Alireza Jahanbakhsh](https://github.com/Alizjahan)
+- **Supervising Instructor:** Dr. Hadi Farahani
+- **Institution:** Shahid Beheshti University (SBU)
 
 ---
 
